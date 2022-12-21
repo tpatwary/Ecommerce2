@@ -1,0 +1,88 @@
+2022-12-13 20:41:16,304 [main] INFO QA Test Lead -Tanu  - Start Automation in Chrome Browser
+2022-12-13 20:41:16,675 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-13 20:41:16,690 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Reading https://chromedriver.storage.googleapis.com/ to seek chromedriver
+2022-12-13 20:41:16,953 [main] INFO io.github.bonigarcia.wdm.online.Downloader - Downloading https://chromedriver.storage.googleapis.com/108.0.5359.71/chromedriver_win32.zip
+2022-12-13 20:41:17,247 [main] INFO io.github.bonigarcia.wdm.online.Downloader - Extracting driver from compressed file chromedriver_win32.zip
+2022-12-13 20:41:17,326 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\tanvi\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-13 20:41:19,254 [main] INFO QA Test Lead -Tanu  - User able to click on SignIn Button
+2022-12-13 20:41:20,153 [main] INFO QA Test Lead -Tanu  - User able to enter Email address
+2022-12-13 20:41:20,411 [main] INFO QA Test Lead -Tanu  - User able to enter Password
+2022-12-13 20:41:20,487 [main] INFO QA Test Lead -Tanu  - User able to click on LogIn Button
+2022-12-13 20:41:22,773 [main] INFO QA Test Lead -Tanu  - User able to MouseHover to Men Module 
+2022-12-13 20:41:22,918 [main] INFO QA Test Lead -Tanu  - User able to MouseHover Men Module> Tops 
+2022-12-13 20:41:23,058 [main] INFO QA Test Lead -Tanu  - User able to Click on Jacket options
+2022-12-13 20:41:23,854 [main] INFO QA Test Lead -Tanu  - User Verify the specific Jacket 'Jupiter All-Weather Trainer' 
+2022-12-13 20:41:23,855 [main] INFO QA Test Lead -Tanu  - User should be able to select  specific size ex: M 
+2022-12-13 20:41:24,022 [main] INFO QA Test Lead -Tanu  - User should be able to select  specific Color ex: Blue
+2022-12-13 20:41:24,172 [main] INFO QA Test Lead -Tanu  - User should be able add the items to carts
+2022-12-13 20:41:24,334 [main] INFO QA Test Lead -Tanu  - User should be able to click on the Shopping Cart  to Proceed to Checkout
+2022-12-13 20:41:27,562 [main] INFO QA Test Lead -Tanu  - User should add QT
+2022-12-13 20:41:27,641 [main] INFO QA Test Lead -Tanu  - User should be able click updte shopping cart
+2022-12-13 20:41:27,808 [main] INFO QA Test Lead -Tanu  - User should be able click on  actionShowcart top right corner
+2022-12-13 20:41:31,094 [main] INFO QA Test Lead -Tanu  - User should be able click on Proceed to Checkout  
+2022-12-13 20:41:33,101 [main] INFO QA Test Lead -Tanu  - User able to click New Address BTN
+2022-12-13 20:44:38,900 [main] INFO QA Test Lead -Tanu  - Start Automation in Chrome Browser
+2022-12-13 20:44:39,010 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-13 20:44:39,019 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\tanvi\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-13 20:44:40,707 [main] INFO QA Test Lead -Tanu  - User able to click on SignIn Button
+2022-12-13 20:44:41,635 [main] INFO QA Test Lead -Tanu  - User able to enter Email address
+2022-12-13 20:44:41,866 [main] INFO QA Test Lead -Tanu  - User able to enter Password
+2022-12-13 20:44:41,939 [main] INFO QA Test Lead -Tanu  - User able to click on LogIn Button
+2022-12-13 20:44:44,332 [main] INFO QA Test Lead -Tanu  - User able to MouseHover to Men Module 
+2022-12-13 20:44:44,476 [main] INFO QA Test Lead -Tanu  - User able to MouseHover Men Module> Tops 
+2022-12-13 20:44:44,631 [main] INFO QA Test Lead -Tanu  - User able to Click on Jacket options
+2022-12-13 20:44:45,465 [main] INFO QA Test Lead -Tanu  - User Verify the specific Jacket 'Jupiter All-Weather Trainer' 
+2022-12-13 20:44:45,466 [main] INFO QA Test Lead -Tanu  - User should be able to select  specific size ex: M 
+2022-12-13 20:44:45,644 [main] INFO QA Test Lead -Tanu  - User should be able to select  specific Color ex: Blue
+2022-12-13 20:44:45,805 [main] INFO QA Test Lead -Tanu  - User should be able add the items to carts
+2022-12-13 20:44:45,967 [main] INFO QA Test Lead -Tanu  - User should be able to click on the Shopping Cart  to Proceed to Checkout
+2022-12-13 20:44:49,129 [main] INFO QA Test Lead -Tanu  - User should add QT
+2022-12-13 20:44:49,238 [main] INFO QA Test Lead -Tanu  - User should be able click updte shopping cart
+2022-12-13 20:44:49,446 [main] INFO QA Test Lead -Tanu  - User should be able click on  actionShowcart top right corner
+2022-12-13 20:44:52,911 [main] INFO QA Test Lead -Tanu  - User should be able click on Proceed to Checkout  
+2022-12-13 20:44:54,807 [main] INFO QA Test Lead -Tanu  - User able to click New Address BTN
+2022-12-13 20:46:23,826 [main] INFO QA Test Lead -Tanu  - Start Automation in Chrome Browser
+2022-12-13 20:46:23,935 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-13 20:46:23,947 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\tanvi\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-13 20:46:25,645 [main] INFO QA Test Lead -Tanu  - User able to click on SignIn Button
+2022-12-13 20:46:26,596 [main] INFO QA Test Lead -Tanu  - User able to enter Email address
+2022-12-13 20:46:26,781 [main] INFO QA Test Lead -Tanu  - User able to enter Password
+2022-12-13 20:46:26,850 [main] INFO QA Test Lead -Tanu  - User able to click on LogIn Button
+2022-12-13 20:46:29,332 [main] INFO QA Test Lead -Tanu  - User able to MouseHover to Men Module 
+2022-12-13 20:46:29,473 [main] INFO QA Test Lead -Tanu  - User able to MouseHover Men Module> Tops 
+2022-12-13 20:46:29,630 [main] INFO QA Test Lead -Tanu  - User able to Click on Jacket options
+2022-12-13 20:48:24,028 [main] INFO QA Test Lead -Tanu  - Start Automation in Chrome Browser
+2022-12-13 20:48:24,137 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-13 20:48:24,150 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\tanvi\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-13 20:48:25,768 [main] INFO QA Test Lead -Tanu  - User able to click on SignIn Button
+2022-12-13 20:48:26,639 [main] INFO QA Test Lead -Tanu  - User able to enter Email address
+2022-12-13 20:48:26,897 [main] INFO QA Test Lead -Tanu  - User able to enter Password
+2022-12-13 20:48:26,981 [main] INFO QA Test Lead -Tanu  - User able to click on LogIn Button
+2022-12-13 20:50:05,660 [main] INFO QA Test Lead -Tanu  - Start Automation in Chrome Browser
+2022-12-13 20:50:05,772 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-13 20:50:05,784 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\tanvi\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-13 20:50:07,449 [main] INFO QA Test Lead -Tanu  - User able to click on SignIn Button
+2022-12-13 20:50:08,278 [main] INFO QA Test Lead -Tanu  - User able to enter Email address
+2022-12-13 20:50:08,486 [main] INFO QA Test Lead -Tanu  - User able to enter Password
+2022-12-13 20:50:08,554 [main] INFO QA Test Lead -Tanu  - User able to click on LogIn Button
+2022-12-13 20:52:05,496 [main] INFO QA Test Lead -Tanu  - Start Automation in Chrome Browser
+2022-12-13 20:52:05,610 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-13 20:52:05,624 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\tanvi\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-13 20:52:07,424 [main] INFO QA Test Lead -Tanu  - User able to click on SignIn Button
+2022-12-13 20:52:08,301 [main] INFO QA Test Lead -Tanu  - User able to enter Email address
+2022-12-13 20:52:08,501 [main] INFO QA Test Lead -Tanu  - User able to enter Password
+2022-12-13 20:52:08,578 [main] INFO QA Test Lead -Tanu  - User able to click on LogIn Button
+2022-12-13 20:54:48,878 [main] INFO QA Test Lead -Tanu  - Start Automation in Chrome Browser
+2022-12-13 20:54:48,994 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-13 20:54:49,006 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\tanvi\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-13 20:54:50,761 [main] INFO QA Test Lead -Tanu  - User able to click on SignIn Button
+2022-12-13 20:54:51,776 [main] INFO QA Test Lead -Tanu  - User able to enter Email address
+2022-12-13 20:54:51,924 [main] INFO QA Test Lead -Tanu  - User able to enter Password
+2022-12-13 20:54:51,977 [main] INFO QA Test Lead -Tanu  - User able to click on LogIn Button
+2022-12-13 20:55:16,732 [main] INFO QA Test Lead -Tanu  - Start Automation in Chrome Browser
+2022-12-13 20:55:16,836 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-13 20:55:16,848 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\tanvi\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-13 20:55:18,514 [main] INFO QA Test Lead -Tanu  - User able to click on SignIn Button
+2022-12-13 20:55:19,434 [main] INFO QA Test Lead -Tanu  - User able to enter Email address
+2022-12-13 20:55:19,629 [main] INFO QA Test Lead -Tanu  - User able to enter Password
+2022-12-13 20:55:19,704 [main] INFO QA Test Lead -Tanu  - User able to click on LogIn Button
